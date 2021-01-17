@@ -934,3 +934,15 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     }
 
 }
+
+.clock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+p {
+    color: antiquewhite; 
+    font-size: 8rem;
+}
